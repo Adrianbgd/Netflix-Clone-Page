@@ -1,2 +1,2 @@
 # Netflix-Clone-Page
-https://adrianbgd.github.io/Netflix-Clone-Page/
+Netflix clone for the Daredevil landing page.
